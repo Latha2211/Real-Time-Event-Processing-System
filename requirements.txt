@@ -1,0 +1,11 @@
+# Real-Time Event Processing System Requirements
+# Python 3.8+ required
+
+# No external dependencies required - uses Python standard library only!
+# The system is built entirely with built-in modules for maximum portability
+
+# Optional: For enhanced features (not required for core functionality)
+# redis==4.5.5              # For distributed queue (production)
+# prometheus-client==0.17.1 # For metrics export
+# asyncio==3.4.3            # Already in stdlib Python 3.8+
+# aiohttp==3.8.5            # For async HTTP endpoints
