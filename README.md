@@ -3,7 +3,6 @@
 A high-performance, fault-tolerant event processing pipeline with multi-stage concurrent processing, automatic ordering, and graceful failure handling.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Zero Dependencies](https://img.shields.io/badge/dependencies-zero-green.svg)](requirements.txt)
 
 ## 🎯 Features
